@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyText
+  clientid: MyText
+  memberid: MyText
+  formid: MyString
+  formver: MyString
+  q001section: MyString
+  q001qlong: MyText
+  q001qshort: MyText
+  q001qatext: MyText
+
+two:
+  title: MyText
+  clientid: MyText
+  memberid: MyText
+  formid: MyString
+  formver: MyString
+  q001section: MyString
+  q001qlong: MyText
+  q001qshort: MyText
+  q001qatext: MyText
